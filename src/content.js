@@ -1,6 +1,6 @@
 import Hero_person from "./assets/images/Hero/person.png";
 import figma from "./assets/images/Skills/figma.png";
-import sketch from "./assets/images/Skills/sketch.png";
+import laravel from "./assets/images/Skills/laravel.png";
 import ps from "./assets/images/Skills/ps.png";
 import reactjs from "./assets/images/Skills/react.png";
 import nodejs from "./assets/images/Skills/node.png";
@@ -92,9 +92,9 @@ export const content = {
         logo: reactjs,
       },
       {
-        name: "Sketch",
+        name: "Laravel",
         para: "Lorem ipsum text  dummy",
-        logo: sketch,
+        logo: laravel,
       },
       {
         name: "Python",
@@ -131,7 +131,7 @@ export const content = {
     image: person_project,
     project_content: [
       {
-        title: "Gym Website",
+        title: "System Cashier POS",
         image: project1,
       },
       {
